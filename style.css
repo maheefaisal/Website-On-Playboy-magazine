@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  background: #d2dae2;
+}
+.one {
+  background: #1e272e;
+  overflow: auto;
+  border: 4px solid blue;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  text-decoration: aqua;
+}
+.two {
+  background: #d63031;
+  height: auto;
+  width: min-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+.three {
+  background: #5758bb;
+  color: whitesmoke;
+  overflow: hidden;
+  font-size: 20px;
+  margin-top: 2%;
+}
+.four {
+  margin-top: 2%;
+}
+.left {
+  background: #5758bb;
+  width: 20%;
+  height: 10%;
+  float: left;
+  overflow: visible;
+  color: azure;
+  padding: auto;
+  padding-bottom: auto;
+}
+
+.center {
+  background: whitesmoke;
+  width: 60%;
+  height: min-content;
+  float: left;
+  overflow: hidden;
+  color: #5758bb;
+  font-size: 20px;
+  text-align: center;
+}
+
+.right {
+  background: #5758bb;
+  width: 20%;
+  height: auto;
+  float: left;
+  color: aliceblue;
+  padding-bottom: auto;
+}
+
+.footer {
+  background: #485460;
+  overflow: auto;
+  border: 3px solid white;
+  color: white;
+  text-align: center;
+  font-size: x-large;
+  text-decoration: white;
+}
